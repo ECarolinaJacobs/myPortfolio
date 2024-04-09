@@ -1,0 +1,4 @@
+C:\Users\elena\Documents\learning_c\CardDeckOfPlayingCards\obj\Debug\net7.0\CardDeckOfPlayingCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\Documents\learning_c\CardDeckOfPlayingCards\obj\Debug\net7.0\CardDeckOfPlayingCards.AssemblyInfoInputs.cache
+C:\Users\elena\Documents\learning_c\CardDeckOfPlayingCards\obj\Debug\net7.0\CardDeckOfPlayingCards.AssemblyInfo.cs
+C:\Users\elena\Documents\learning_c\CardDeckOfPlayingCards\obj\Debug\net7.0\CardDeckOfPlayingCards.csproj.CoreCompileInputs.cache
